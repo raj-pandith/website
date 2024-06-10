@@ -1,0 +1,36 @@
+.banner-img {
+    height: 100vh;
+    overflow: hidden;
+    background-image: url(https://tebewebe.online/ivycare/wp-content/uploads/sites/105/2024/04/asian-nurse-or-physiotherapist-caring-for-elderly-woman-sitting-wheelchair-asian-female-nurse-takes-e1714026907498.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.background-img {
+    height: 99vh;
+    overflow: hidden;
+    background-image: url("https://1.bp.blogspot.com/-alVLkmFpyeo/XRhv7s4Yh2I/AAAAAAAAA30/OXRtfOQdpkAnbk8pz25Di35EcYIrLXY1gCLcBGAs/s1600/1.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.stescope-bkg {
+    height: 60vh;
+    width: 100%;
+
+    background-image: url("https://tebewebe.online/ivycare/wp-content/uploads/sites/105/2024/04/stethoscope-on-a-blue-background-e1714026457955.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.form-backgrd {
+    height: 100vh;
+    width: 100%;
+    background-image: url("https://www.prettydesigns.com/wp-content/uploads/2020/07/beautiful-nurse-girl.jpg");
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+    object-fit: cover;
+}
